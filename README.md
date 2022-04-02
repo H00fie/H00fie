@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+<img align="left" alt="Bartosz76's Github Stats" src="https://github-readme-stats.vercel.app/apu?username=Bartosz76&show_icons=true&hide_border=true" />
 <!--
 **Bartosz76/Bartosz76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
