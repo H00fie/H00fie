@@ -1,6 +1,6 @@
 ### Hi there, I am Bartek 👋
 
-####A SAP/ABAP Developer during working hours and a Java Developer in the evening.
+A SAP/ABAP Developer during working hours and a Java Developer in the evening.
 
 ---
 ### 🔧 Technologies & Tools
