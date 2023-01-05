@@ -10,4 +10,4 @@ During working hours I am a SAP/ABAP Developer and, since I love programming, in
 ![Jira](https://img.shields.io/badge/-Jira-3f4441?style=for-the-badge&logo=Jira&color=blue) ![Postman](https://img.shields.io/badge/-Postman-3f4441?style=for-the-badge&logo=Postman)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&color=2bbc8a)
 ---
-<img align="left" alt="Bartosz76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bartosz76&show_icons=true&theme=synthwave"/>
+<img align="left" alt="H00fie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H00fie&show_icons=true&theme=synthwave"/>
