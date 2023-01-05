@@ -1,4 +1,4 @@
-### Hi there, I am Bartek 👋
+### Hi there, I am Hoofie 👋
 
 During working hours I am a SAP/ABAP Developer and, since I love programming, in my spare time I also enjoy different branches of it such as Java or game development with Unity.
 
