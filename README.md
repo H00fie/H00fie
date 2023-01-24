@@ -11,6 +11,3 @@ During working hours I am a SAP/ABAP Developer and, since I love programming, in
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&color=2bbc8a)
 ---
 <img align="left" alt="H00fie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H00fie&show_icons=true&theme=synthwave"/>
-
-
-<iframe src="https://i.simmer.io/@Hoofie/hardly-flying-demon" style="width:960px;height:600px"></iframe>
