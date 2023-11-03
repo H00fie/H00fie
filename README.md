@@ -1,6 +1,6 @@
 ### Hi there, I am Hoofie 👋
 
-I am a SAP/ABAP Developer by trade and, since I love programming, in my spare time I also enjoy different branches of it such as game development with Unity.
+I am an ABAP Developer by trade and, since I love programming, in my spare time I also enjoy different branches of it such as game development with Unity.
 
 ---
 ### 🔧 Technologies & Tools
